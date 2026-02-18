@@ -1,0 +1,13 @@
+﻿# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter autosaves
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+__MACOSX/
+
+# data file (not needed if notebook downloads it)
+mnist.npz
